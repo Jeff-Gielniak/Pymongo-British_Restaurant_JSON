@@ -1,7 +1,7 @@
-# nosql-challenge
-Module 12 challenge
+#Pymongo Exercise - Modifying data from a JSON file to update, query
 
 Author: Jeff Gielniak
 Date: 2025-02-24
 
-Summary: This NoSQLdatabase challenge has two parts: NoSQL_analysis and NoSQL_setup.  Both these files are analyzing a JSON file imported using pymongo and analyzed in Jupyter Notebooks.  
+Summary: Using Pymongo, I read in a JSON file of British Restaurants with various information, and then modified, added, and queried the data.
+<img width="1106" alt="Screenshot 2025-03-28 at 11 35 36 AM" src="https://github.com/user-attachments/assets/17eef10f-4924-4087-9bba-c2e75861f50b" />
